@@ -1,6 +1,9 @@
 #include<stdio.h>
+#include<math.h>
 int main()
 {
-printf("Hello World !\n");
+double A = 7/3.;
+  printf("Hello World !\n");
+  print("sqrt(%g) = %g\n",A,sqrt(A));
   return 0;
 }
